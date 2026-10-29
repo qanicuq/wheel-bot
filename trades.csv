@@ -1,0 +1,4 @@
+date,book,ticker,action,strike_or_shares,stock_price,expiration,cash_flow
+2026-10-12,core_wheel,SPY,BUY CORE SHARES,128.4522,778.5,,-100000.0
+2026-10-14,wheel_only,QQQ,SELL PUT (delta 0.245),697.0,728.22,2026-11-20,906.35
+2026-10-15,core_wheel,QQQ,SELL PUT (delta 0.246),696.0,726.6,2026-11-20,895.35

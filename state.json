@@ -1,0 +1,74 @@
+{
+ "start": "2026-10-12",
+ "last_run": "2026-10-28",
+ "books": {
+  "wheel_only": {
+   "cash": 201133.2774019223,
+   "core_shares": 0.0,
+   "core_cost": 0.0,
+   "positions": {
+    "SPY": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": null
+    },
+    "QQQ": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": {
+      "symbol": "QQQ261120P00697000",
+      "kind": "put",
+      "strike": 697.0,
+      "exp": "2026-11-20",
+      "prem": 9.07,
+      "delta": 0.245
+     }
+    },
+    "AAPL": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": null
+    },
+    "MSFT": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": null
+    }
+   },
+   "peak": 200351.2774019223,
+   "max_dd_pct": 0.3
+  },
+  "core_wheel": {
+   "cash": 100967.06857511542,
+   "core_shares": 128.4522,
+   "core_cost": 100000.0,
+   "positions": {
+    "QQQ": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": {
+      "symbol": "QQQ261120P00696000",
+      "kind": "put",
+      "strike": 696.0,
+      "exp": "2026-11-20",
+      "prem": 8.96,
+      "delta": 0.246
+     }
+    },
+    "AAPL": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": null
+    },
+    "MSFT": {
+     "shares": 0,
+     "basis": 0.0,
+     "opt": null
+    }
+   },
+   "peak": 200000,
+   "max_dd_pct": 1.27
+  }
+ },
+ "start_spy": 778.5
+}
