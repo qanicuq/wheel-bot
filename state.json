@@ -1,9 +1,9 @@
 {
  "start": "2026-10-12",
- "last_run": "2026-10-29",
+ "last_run": "2026-10-30",
  "books": {
   "wheel_only": {
-   "cash": 201146.60077524796,
+   "cash": 201159.92549916217,
    "core_shares": 0.0,
    "core_cost": 0.0,
    "positions": {
@@ -36,10 +36,10 @@
     }
    },
    "peak": 200351.2774019223,
-   "max_dd_pct": 0.3
+   "max_dd_pct": 0.39
   },
   "core_wheel": {
-   "cash": 100970.24825056002,
+   "cash": 100973.42824832788,
    "core_shares": 128.4522,
    "core_cost": 100000.0,
    "positions": {
@@ -67,7 +67,7 @@
     }
    },
    "peak": 200000,
-   "max_dd_pct": 1.27
+   "max_dd_pct": 1.52
   }
  },
  "start_spy": 778.5
