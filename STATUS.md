@@ -1,12 +1,12 @@
 # Wheel bot paper test
 
-Updated 2026-11-13 · started 2026-10-12 · trading stops 2026-12-11 · simulated fills on real delayed quotes, no real orders
+Updated 2026-11-16 · started 2026-10-12 · trading stops 2026-12-11 · simulated fills on real delayed quotes, no real orders
 
 | Book | Value | Return | Worst drawdown | Expectancy per option trade |
 |---|---|---|---|---|
-| wheel_only | $198,805 | -0.60% | 1.5% | n/a (none closed yet) |
-| core_wheel | $194,978 | -2.51% | 3.9% | n/a (none closed yet) |
-| hold SPY (benchmark) | $192,848 | -3.58% | | |
+| wheel_only | $198,407 | -0.80% | 1.5% | n/a (none closed yet) |
+| core_wheel | $193,953 | -3.02% | 3.9% | n/a (none closed yet) |
+| hold SPY (benchmark) | $191,663 | -4.17% | | |
 
 ## Open positions
 
@@ -21,7 +21,7 @@ Updated 2026-11-13 · started 2026-10-12 · trading stops 2026-12-11 · simulate
 ## Today's skips
 
 - wheel_only/SPY: skipped, IV rank 0%
-- wheel_only/AAPL: skipped, IV rank 9%
+- wheel_only/AAPL: skipped, IV rank 5%
 - wheel_only/MSFT: skipped, IV rank 0%
-- core_wheel/AAPL: skipped, IV rank 9%
+- core_wheel/AAPL: skipped, IV rank 5%
 - core_wheel/MSFT: skipped, IV rank 0%
