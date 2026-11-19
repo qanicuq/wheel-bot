@@ -1,16 +1,23 @@
 {
  "start": "2026-10-12",
- "last_run": "2026-11-18",
+ "last_run": "2026-11-19",
  "books": {
   "wheel_only": {
-   "cash": 201413.33851642627,
+   "cash": 202327.04027950877,
    "core_shares": 0.0,
    "core_cost": 0.0,
    "positions": {
     "SPY": {
      "shares": 0,
      "basis": 0.0,
-     "opt": null
+     "opt": {
+      "symbol": "SPY261224P00695000",
+      "kind": "put",
+      "strike": 695.0,
+      "exp": "2026-12-24",
+      "prem": 9.01,
+      "delta": 0.24
+     }
     },
     "QQQ": {
      "shares": 0,
@@ -39,7 +46,7 @@
    "max_dd_pct": 1.94
   },
   "core_wheel": {
-   "cash": 101033.90626156378,
+   "cash": 101037.0927123355,
    "core_shares": 128.4522,
    "core_cost": 100000.0,
    "positions": {
