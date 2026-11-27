@@ -7,3 +7,4 @@ date,book,ticker,action,strike_or_shares,stock_price,expiration,cash_flow
 2026-11-20,wheel_only,QQQ,SELL CALL (delta 0.164),688.0,627.6,2026-12-24,424.35
 2026-11-20,core_wheel,QQQ,PUT ASSIGNED,696.0,627.6,2026-11-20,-69600.0
 2026-11-20,core_wheel,QQQ,SELL CALL (delta 0.164),688.0,627.6,2026-12-24,424.35
+2026-11-27,wheel_only,AAPL,SELL PUT (delta 0.216),340.0,358.59,2026-12-31,379.35
